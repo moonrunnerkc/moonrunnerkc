@@ -41,7 +41,7 @@ Medium: https://medium.com/@bradkinnard
 
 
 
-Website: Aftermath Technologies
+Website: https://aftermathtech.com
 
 Explore my repositories to see my work in action, and feel free to reach out for discussions on AI innovation or potential opportunities!
 
