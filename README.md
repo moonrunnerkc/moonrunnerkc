@@ -1,48 +1,87 @@
-Brad Kinnard - AI Architect & Systems Engineer
+# Brad Kinnard · AI Architect & Systems Engineer
 
-Welcome to my GitHub! I'm an AI-focused engineer with over 15 years of experience in software development, specializing in offline AI ecosystems, belief ecology frameworks, swarm intelligence, and autonomous system design. My work revolves around building experimental prototypes that push the boundaries of cognitive modeling, anomaly detection, and secure, offline-first AI systems. As the founder of Aftermath Technologies, I take ideas from concept to working prototypes, combining tools and concepts in novel ways to solve complex problems.
+I build offline LLM systems, multi-agent workflows, and cognitive layers that run on real hardware instead of living in slide decks. Most of my work sits between research and practical tools: local first assistants, RL tuned retrieval, belief style memory systems, and code tools that try to behave consistently under real usage.
 
-What I Do: 
-I design and experiment with AI systems that explore the edge of what's possible. My strength lies in orchestrating complex workflows, troubleshooting roadblocks, and deploying robust systems in real-world environments. 
+As the founder of Aftermath Technologies, I take ideas from sketch to working prototype, then push on them until they are stable enough for other people to run without babysitting.
 
-My projects focus on:
+---
 
-Offline AI & Chatbots: Resilient, secure systems for zero-trust setups.
-Belief Ecology & Contradiction Tracing: Frameworks for reasoning and anomaly detection.
-Swarm Intelligence: Agent-based systems for autonomous coordination.
-Multimodal Data Fusion: Experimental approaches to knowledge persistence and compression.
+## What I work on
 
-Key Projects:
+- Offline LLM and agent systems on consumer GPUs and Linux  
+- Multi-agent orchestration for code analysis, refactoring, and style enforcement  
+- RL driven retrieval and fusion across RAG, cache, and graph sources  
+- Belief ecology, contradiction tracing, and anomaly detection for long running sessions  
+- WordPress and web infrastructure that actually stays online and pays bills  
 
-Gravitational Data Attractor (GDA): A CPU-only AI system for multimodal data compression and fusion in latent space, designed for knowledge persistence and retrieval.
-ContradictTraceAI: A prototype leveraging belief modeling to detect anomalies and adversarial data through contradiction tracing.
-Sentinel OS Core: An offline-first AI operating layer with persistent memory and synthetic cognition for zero-trust environments.
-Swarm Neural Refactoring Engine (SNRE): An experimental system for autonomous code refactoring using agent-based consensus and CI/CD integration.
+---
 
+## What you will find here
 
-Skills & Expertise:
+Most repos fall into one of these buckets:
 
-Programming: Python (advanced), Java, JavaScript, HTML/CSS, React.js, Next.js, WordPress
-AI & ML: PyTorch, LangChain, Transformers, NLP, prompt engineering, generative AI, multimodal AI, anomaly detection
-Systems & Tools: Linux (Ubuntu), Docker, Vercel API, Git, SQL/MySQL, Eclipse
-Specialties: Cognitive computing, autonomous agents, edge AI, data compression, full-stack development
+- Cognitive layer experiments  
+  Belief ecologies, tension, memory decay, conflict tracking, and other ways of modeling what a system thinks it knows.
 
-Current Goals:
+- RL and orchestration  
+  Local first orchestrators, agent swarms, and RL tuned fusion layers that sit in front of LLMs instead of treating them like a magic box.
 
-Contribute to open-source AI projects like LangChain and Chatwoot.
-Develop practical utilities for AI developers to evaluate LLM performance and drift.
-Advance research in persistent, autonomous AI systems.
+- Code tools  
+  Multi-agent code style enforcement, refactoring helpers, and utilities that try to keep human codebases from turning into sludge.
 
-Connect with me:
+- Infra and web  
+  Pieces that support Linux based hosting, WordPress, and the glue that keeps small businesses online.
 
-Email: bradkinnard@proton.me
-LinkedIn: https://www.linkedin.com/in/brad-kinnard/
-Medium: https://medium.com/@bradkinnard
+Most of this is experimental but runnable. If something is rough, I try to at least document what it is supposed to do and how to start it.
 
+---
 
+## Stack in use right now
 
-Website: https://aftermathtech.com
+**Core work**
 
-Explore my repositories to see my work in action, and feel free to reach out for discussions on AI innovation or potential opportunities!
+- Python on Linux (Ubuntu)  
+- Offline LLM orchestration, multi-agent systems, reinforcement learning pipelines  
+- Retrieval and fusion across RAG, cache, and graphs, with evaluation harnesses for drift and failure modes  
+- Cognitive style layers: belief ecology, tension, contradiction tracing, long horizon sessions  
 
-© 2025 Bradley Kinnard / Aftermath Technologies
+**AI and ML**
+
+- PyTorch  
+- LLM tooling and evaluation  
+- Prompt and agent design  
+- Anomaly detection and basic safety checks  
+- Offline RL for policies and fusion weights  
+
+**Systems and infra**
+
+- FastAPI and async backends  
+- Redis, SQL and MySQL  
+- Docker, Git, basic observability and benchmarking  
+- Local first, privacy focused setups that do not depend on a cloud crutch  
+
+**Web and WordPress**
+
+- WordPress, WooCommerce, custom themes and plugins  
+- PHP, JavaScript, HTML, CSS  
+- Performance tuning, migrations, security hardening, DNS and SSL  
+
+---
+
+## What I am looking for
+
+- Work on serious AI systems that have to be stable, explainable, and measurable  
+- Roles where Python on Linux, offline LLMs, RL, and multi-agent orchestration are core to the job  
+- Chances to turn the cognitive layer and belief ecology work into tools other people can run, inspect, and extend  
+
+---
+
+## Contact
+
+- Email: **bradkinnard@proton.me**  
+- LinkedIn: https://www.linkedin.com/in/brad-kinnard/  
+- Website: https://aftermathtech.com  
+
+If you are working on real AI systems, cognitive layers, or infrastructure that needs to run without constant cloud support, feel free to reach out.
+
+© 2025 Bradley R. Kinnard / Aftermath Technologies
