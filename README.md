@@ -1,67 +1,62 @@
+<div align="center">
 
-<img width="3168" height="1344" alt="Gemini_Generated_Image_dtkuopdtkuopdtku" src="https://github.com/user-attachments/assets/9a8cacd6-ded2-4609-8ce8-a13e5872eb16" />
+<img width="100%" src="https://github.com/user-attachments/assets/9a8cacd6-ded2-4609-8ce8-a13e5872eb16" alt="Brad Kinnard Banner" />
 
-<h1 align="center">Brad Kinnard</h1>
-
-<h3 align="center">AI Architect - Founder @ Aftermath Technologies - Offline Cognitive Systems Engineer</h3>
-
-<p align="center">
-  I build autonomous cognitive systems that run fully offline on regular hardware.  
-  These are architectures where beliefs form ecologies - they compete, mutate, decay, and resolve contradictions over time.  
-  Everything evolves through tension and evidence, with reinforcement learning guiding retrieval and agent coordination.  
-  The goal is real understanding that grows from hard constraints, not from endless data or hidden tweaks.
-</p>
-
+# Brad Kinnard
+**AI Architect** | **Founder @ Aftermath Technologies** | **Offline Systems Engineer**
 
 <br>
 
-### What I'm working on now
+> I build autonomous cognitive architectures that run fully offline. My systems don't just process data; they possess beliefs that compete, mutate, and evolve based on evidence. **Real understanding grown from hard constraints, not endless data.**
 
-- Offline cognitive operating systems with persistent, evolving intelligence - belief tracking, contradiction resolution, anomaly detection, and immutable audit trails (`sentinel-os-core`)
-- Adaptive belief ecologies where memory is dynamic but tamper-evident - beliefs live, conflict, mutate, and decay like organisms (`adaptive-belief-ecology-system`, `shadow-ecology`)
-- Local RL-driven fusion of retrieval methods - combining RAG, graphs, and caches without any cloud (`rlfusion-orchestrator`)
-- Multi-agent swarms with parallel execution, strict verification, and learned preferences that only advance when proven (`copilot-swarm-orchestrator`, `code-style-enforcer`)
+<br>
 
-All of these run on consumer machines, are heavily tested, and prioritize robustness, inspectability, and measurable progress over time.
+[![Website](https://img.shields.io/badge/Website-aftermathtech.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aftermathtech.com)
+[![Email](https://img.shields.io/badge/Email-bradkinnard%40proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:bradkinnard@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brad-kinnard/)
+[![X](https://img.shields.io/badge/X-%40KChackerman-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KChackerman)
 
-### Core stack
+</div>
 
-| Area                  | Tools & approaches                                                  |
-|-----------------------|---------------------------------------------------------------------|
-| Primary languages     | Python - TypeScript - Linux (Ubuntu)                                 |
-| AI / ML               | PyTorch - offline LLMs - RL pipelines - multi-agent systems - retrieval fusion |
-| Cognitive design      | Belief ecologies - contradiction-driven growth - immutable memory - adversarial testing - evidence-based evolution |
-| Infrastructure        | FastAPI - Redis - Docker - Git - async patterns                     |
-| Supporting web work   | Occasional WordPress/WooCommerce security, custom themes, optimization |
+---
 
-### Key projects
+### ⚡ Engineering Stack
+I prioritize tools that allow for local execution, strict verification, and high performance.
 
-- **[copilot-swarm-orchestrator](https://github.com/moonrunnerkc/copilot-swarm-orchestrator)**  
-  <img src="https://img.shields.io/github/stars/moonrunnerkc/copilot-swarm-orchestrator?style=social" alt="Stars"/>  
-  Parallel local Copilot sessions with smart dependency handling and isolated branches.
+| **Core Logic** | **Infrastructure** | **Cognitive Design** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | **Belief Ecologies** |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) **Offline LLMs** | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | **RL Pipelines** |
+| **Multi-Agent Systems** | **Async Architectures** | **Immutable Memory** |
 
-- **[sentinel-os-core](https://github.com/moonrunnerkc/sentinel-os-core)**  
-  Offline cognitive OS kernel - signed logs, RL goal evolution, sandboxed agents, and automatic recovery from failures.
+<br>
 
-- **[adaptive-belief-ecology-system](https://github.com/moonrunnerkc/adaptive-belief-ecology-system)**  
-  <img src="https://img.shields.io/github/stars/moonrunnerkc/adaptive-belief-ecology-system?style=social" alt="Stars"/>  
-  Multi-agent belief system with RL adaptation, memory decay, conflict detection, and mutation.
+### 🛠 Active Development
+*Current focus: Offline cognitive operating systems with persistent, evolving intelligence.*
 
-- **[shadow-ecology](https://github.com/moonrunnerkc/shadow-ecology)**  
-  <img src="https://img.shields.io/github/stars/moonrunnerkc/shadow-ecology?style=social" alt="Stars"/>  
-  Pure tension-driven evolution - no reward hacking, no fine-tuning drift.
+#### **[sentinel-os-core](https://github.com/moonrunnerkc/sentinel-os-core)**
+> **The Kernel.** An offline cognitive OS with signed logs, RL goal evolution, and automatic failure recovery.
+* *Focus:* Audit trails, contradiction resolution, anomaly detection.
 
-- **[rlfusion-orchestrator](https://github.com/moonrunnerkc/rlfusion-orchestrator)** + **[code-style-enforcer](https://github.com/moonrunnerkc/code-style-enforcer)**  
-  Local retrieval fusion tuned by RL, plus adaptive multi-agent code review and enforcement.
+#### **[adaptive-belief-ecology-system](https://github.com/moonrunnerkc/adaptive-belief-ecology-system)** ![Stars](https://img.shields.io/github/stars/moonrunnerkc/adaptive-belief-ecology-system?style=social)
+> **The Mind.** A multi-agent belief system where ideas live or die based on utility.
+* *Focus:* Dynamic memory, conflict detection, mutation, decay.
 
-### Get in touch
+#### **[shadow-ecology](https://github.com/moonrunnerkc/shadow-ecology)** ![Stars](https://img.shields.io/github/stars/moonrunnerkc/shadow-ecology?style=social)
+> **The Evolution.** Pure tension-driven development to prevent reward hacking.
+* *Focus:* Evolution without fine-tuning drift.
 
-- **Website**: [aftermathtech.com](https://aftermathtech.com)
-- **Email**: bradkinnard@proton.me
-- **LinkedIn**: [linkedin.com/in/brad-kinnard](https://www.linkedin.com/in/brad-kinnard/)
-- **X/Twitter**: [@KChackerman](https://x.com/KChackerman)
-- **Medium**: [medium.com/@bradkinnard](https://medium.com/@bradkinnard)
+#### **[copilot-swarm-orchestrator](https://github.com/moonrunnerkc/copilot-swarm-orchestrator)** ![Stars](https://img.shields.io/github/stars/moonrunnerkc/copilot-swarm-orchestrator?style=social)
+> **The Workforce.** Parallel local coding sessions with isolated branches.
+* *Focus:* Smart dependency handling, swarm coordination.
 
-I'm always open to serious collaboration on offline cognitive architectures, robust belief systems, or local AI that puts evidence and verifiability first.
+#### **[rlfusion-orchestrator](https://github.com/moonrunnerkc/rlfusion-orchestrator)**
+> **The Search.** Local retrieval fusion tuned by reinforcement learning.
+* *Focus:* Combining RAG, graphs, and caches without the cloud.
 
-© 2026 Bradley R. Kinnard / Aftermath Technologies
+---
+
+<div align="center">
+  <p>I am always open to serious collaboration on offline cognitive architectures and verifiable AI.</p>
+  <p><b>© 2026 Bradley R. Kinnard / Aftermath Technologies</b></p>
+</div>
