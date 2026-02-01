@@ -1,87 +1,67 @@
-# Brad Kinnard · AI Architect & Systems Engineer
 
-I build offline LLM systems, multi-agent workflows, and cognitive layers that run on real hardware instead of living in slide decks. Most of my work sits between research and practical tools: local first assistants, RL tuned retrieval, belief style memory systems, and code tools that try to behave consistently under real usage.
+<img width="3168" height="1344" alt="Gemini_Generated_Image_dtkuopdtkuopdtku" src="https://github.com/user-attachments/assets/9a8cacd6-ded2-4609-8ce8-a13e5872eb16" />
 
-As the founder of Aftermath Technologies, I take ideas from sketch to working prototype, then push on them until they are stable enough for other people to run without babysitting.
+<h1 align="center">Brad Kinnard</h1>
 
----
+<h3 align="center">AI Architect - Founder @ Aftermath Technologies - Offline Cognitive Systems Engineer</h3>
 
-## What I work on
+<p align="center">
+  I build autonomous cognitive systems that run fully offline on regular hardware.  
+  These are architectures where beliefs form ecologies - they compete, mutate, decay, and resolve contradictions over time.  
+  Everything evolves through tension and evidence, with reinforcement learning guiding retrieval and agent coordination.  
+  The goal is real understanding that grows from hard constraints, not from endless data or hidden tweaks.
+</p>
 
-- Offline LLM and agent systems on consumer GPUs and Linux  
-- Multi-agent orchestration for code analysis, refactoring, and style enforcement  
-- RL driven retrieval and fusion across RAG, cache, and graph sources  
-- Belief ecology, contradiction tracing, and anomaly detection for long running sessions  
-- WordPress and web infrastructure that actually stays online and pays bills  
 
----
+<br>
 
-## What you will find here
+### What I'm working on now
 
-Most repos fall into one of these buckets:
+- Offline cognitive operating systems with persistent, evolving intelligence - belief tracking, contradiction resolution, anomaly detection, and immutable audit trails (`sentinel-os-core`)
+- Adaptive belief ecologies where memory is dynamic but tamper-evident - beliefs live, conflict, mutate, and decay like organisms (`adaptive-belief-ecology-system`, `shadow-ecology`)
+- Local RL-driven fusion of retrieval methods - combining RAG, graphs, and caches without any cloud (`rlfusion-orchestrator`)
+- Multi-agent swarms with parallel execution, strict verification, and learned preferences that only advance when proven (`copilot-swarm-orchestrator`, `code-style-enforcer`)
 
-- Cognitive layer experiments  
-  Belief ecologies, tension, memory decay, conflict tracking, and other ways of modeling what a system thinks it knows.
+All of these run on consumer machines, are heavily tested, and prioritize robustness, inspectability, and measurable progress over time.
 
-- RL and orchestration  
-  Local first orchestrators, agent swarms, and RL tuned fusion layers that sit in front of LLMs instead of treating them like a magic box.
+### Core stack
 
-- Code tools  
-  Multi-agent code style enforcement, refactoring helpers, and utilities that try to keep human codebases from turning into sludge.
+| Area                  | Tools & approaches                                                  |
+|-----------------------|---------------------------------------------------------------------|
+| Primary languages     | Python - TypeScript - Linux (Ubuntu)                                 |
+| AI / ML               | PyTorch - offline LLMs - RL pipelines - multi-agent systems - retrieval fusion |
+| Cognitive design      | Belief ecologies - contradiction-driven growth - immutable memory - adversarial testing - evidence-based evolution |
+| Infrastructure        | FastAPI - Redis - Docker - Git - async patterns                     |
+| Supporting web work   | Occasional WordPress/WooCommerce security, custom themes, optimization |
 
-- Infra and web  
-  Pieces that support Linux based hosting, WordPress, and the glue that keeps small businesses online.
+### Key projects
 
-Most of this is experimental but runnable. If something is rough, I try to at least document what it is supposed to do and how to start it.
+- **[copilot-swarm-orchestrator](https://github.com/moonrunnerkc/copilot-swarm-orchestrator)**  
+  <img src="https://img.shields.io/github/stars/moonrunnerkc/copilot-swarm-orchestrator?style=social" alt="Stars"/>  
+  Parallel local Copilot sessions with smart dependency handling and isolated branches.
 
----
+- **[sentinel-os-core](https://github.com/moonrunnerkc/sentinel-os-core)**  
+  Offline cognitive OS kernel - signed logs, RL goal evolution, sandboxed agents, and automatic recovery from failures.
 
-## Stack in use right now
+- **[adaptive-belief-ecology-system](https://github.com/moonrunnerkc/adaptive-belief-ecology-system)**  
+  <img src="https://img.shields.io/github/stars/moonrunnerkc/adaptive-belief-ecology-system?style=social" alt="Stars"/>  
+  Multi-agent belief system with RL adaptation, memory decay, conflict detection, and mutation.
 
-**Core work**
+- **[shadow-ecology](https://github.com/moonrunnerkc/shadow-ecology)**  
+  <img src="https://img.shields.io/github/stars/moonrunnerkc/shadow-ecology?style=social" alt="Stars"/>  
+  Pure tension-driven evolution - no reward hacking, no fine-tuning drift.
 
-- Python on Linux (Ubuntu)  
-- Offline LLM orchestration, multi-agent systems, reinforcement learning pipelines  
-- Retrieval and fusion across RAG, cache, and graphs, with evaluation harnesses for drift and failure modes  
-- Cognitive style layers: belief ecology, tension, contradiction tracing, long horizon sessions  
+- **[rlfusion-orchestrator](https://github.com/moonrunnerkc/rlfusion-orchestrator)** + **[code-style-enforcer](https://github.com/moonrunnerkc/code-style-enforcer)**  
+  Local retrieval fusion tuned by RL, plus adaptive multi-agent code review and enforcement.
 
-**AI and ML**
+### Get in touch
 
-- PyTorch  
-- LLM tooling and evaluation  
-- Prompt and agent design  
-- Anomaly detection and basic safety checks  
-- Offline RL for policies and fusion weights  
+- **Website**: [aftermathtech.com](https://aftermathtech.com)
+- **Email**: bradkinnard@proton.me
+- **LinkedIn**: [linkedin.com/in/brad-kinnard](https://www.linkedin.com/in/brad-kinnard/)
+- **X/Twitter**: [@KChackerman](https://x.com/KChackerman)
+- **Medium**: [medium.com/@bradkinnard](https://medium.com/@bradkinnard)
 
-**Systems and infra**
+I'm always open to serious collaboration on offline cognitive architectures, robust belief systems, or local AI that puts evidence and verifiability first.
 
-- FastAPI and async backends  
-- Redis, SQL and MySQL  
-- Docker, Git, basic observability and benchmarking  
-- Local first, privacy focused setups that do not depend on a cloud crutch  
-
-**Web and WordPress**
-
-- WordPress, WooCommerce, custom themes and plugins  
-- PHP, JavaScript, HTML, CSS  
-- Performance tuning, migrations, security hardening, DNS and SSL  
-
----
-
-## What I am looking for
-
-- Work on serious AI systems that have to be stable, explainable, and measurable  
-- Roles where Python on Linux, offline LLMs, RL, and multi-agent orchestration are core to the job  
-- Chances to turn the cognitive layer and belief ecology work into tools other people can run, inspect, and extend  
-
----
-
-## Contact
-
-- Email: **bradkinnard@proton.me**  
-- LinkedIn: https://www.linkedin.com/in/brad-kinnard/  
-- Website: https://aftermathtech.com  
-
-If you are working on real AI systems, cognitive layers, or infrastructure that needs to run without constant cloud support, feel free to reach out.
-
-© 2025 Bradley R. Kinnard / Aftermath Technologies
+© 2026 Bradley R. Kinnard / Aftermath Technologies
