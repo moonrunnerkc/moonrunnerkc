@@ -12,8 +12,6 @@
 [![Website](https://img.shields.io/badge/Website-aftermathtech.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aftermathtech.com)
 [![Email](https://img.shields.io/badge/Email-bradkinnard%40proton.me-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:bradkinnard@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brad-kinnard/)
-[![X](https://img.shields.io/badge/X-%40KChackerman-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KChackerman)
-
 </div>
 
 ---
