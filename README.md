@@ -3,9 +3,21 @@
 # Brad Kinnard
 **AI Architect** | **Founder @ Aftermath Technologies** | **Offline Systems Engineer**
 
-<br>
+I build offline LLM systems, multi-agent workflows, and cognitive architectures that run on real hardware. With over 20 years of software engineering experience, including 18 years as a solo developer, my work bridges the gap between AI research and practical, local-first execution. I design AI that retains memory, traces contradictions, and runs autonomously without relying on cloud infrastructure.
+<hr>
+<h3>Core Stack</h3>
 
-> I build autonomous cognitive architectures that run fully offline. My systems don't just process data; they possess beliefs that compete, mutate, and evolve based on evidence. **Real understanding grown from hard constraints, not endless data.**
+AI & Engineering: Python, PyTorch, Local LLMs (Ollama), Offline RL (CQL), Knowledge Graphs (NetworkX), Vector Retrieval.
+
+Systems & Backend: Linux (Ubuntu), Node.js, TypeScript, FastAPI, Docker, Git.
+
+Databases: PostgreSQL, Redis, Supabase.
+<hr>
+<h3>Education</h3>
+
+B.S. in Computer Science & Software Engineering, Park University
+
+A.A. in General Studies, Wentworth Military Academy
 
 <br>
 
