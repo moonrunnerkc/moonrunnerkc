@@ -2,7 +2,7 @@
 
 # Brad Kinnard
 
-**Systems Architect & Full-Stack Engineer** | **Founder, Aftermath Technologies** | **Denver, CO**
+**20 Years Experienced Software Engineer / Solo Researcher** | **Founder, Aftermath Technologies** | **Denver, CO**
 
 20+ years building software, from full-stack web applications to AI agent verification systems. B.S. in Software Engineering. I write code, review code, and build tooling that holds AI-generated code to the same standard. Currently focused on multi-agent orchestration, quality gates, and making sure nothing merges unless it proves it works.
 
@@ -10,7 +10,7 @@
 
 <h3>What I Ship</h3>
 
-**[Swarm Orchestrator](https://github.com/moonrunnerkc/swarm-orchestrator)** — Verification and governance layer for AI coding agents. Parallel orchestration with evidence-based quality gates for Copilot, Claude Code, and Codex. Published on npm, available as a GitHub Action.
+**[Swarm Orchestrator](https://github.com/moonrunnerkc/swarm-orchestrator)** — Independent verification battery for patches written by AI coding agents. Wraps Copilot, Claude Code, and Codex; applies a five-layer falsification battery (intent, mutation, cheat detection, property tests, signed attestation) to gate merges.
 
 **[Skillcheck](https://github.com/moonrunnerkc/skillcheck)** — Cross-agent skill quality gate for SKILL.md files. Validates frontmatter, scores discoverability, checks file references, enforces token budgets, flags compatibility issues.
 
