@@ -2,7 +2,7 @@
 
 # Brad Kinnard
 
-**20 Years Experienced Software Engineer / Solo Researcher** | **Founder, Aftermath Technologies** | **Denver, CO**
+**Software Engineer / Solo Researcher** | **Founder, Aftermath Technologies** | **Denver, CO**
 
 20+ years building software, from full-stack web applications to AI agent verification systems. B.S. in Software Engineering. I write code, review code, and build tooling that holds AI-generated code to the same standard. Currently focused on multi-agent orchestration, quality gates, and making sure nothing merges unless it proves it works.
 
