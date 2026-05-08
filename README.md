@@ -8,15 +8,6 @@
 
 <hr>
 
-<h3>What I Ship</h3>
-
-**[Swarm Orchestrator](https://github.com/moonrunnerkc/swarm-orchestrator)** — Independent verification battery for patches written by AI coding agents. Wraps Copilot, Claude Code, and Codex; applies a five-layer falsification battery (intent, mutation, cheat detection, property tests, signed attestation) to gate merges.
-
-**[Skillcheck](https://github.com/moonrunnerkc/skillcheck)** — Cross-agent skill quality gate for SKILL.md files. Validates frontmatter, scores discoverability, checks file references, enforces token budgets, flags compatibility issues.
-
-**[Ruleprobe](https://github.com/moonrunnerkc/ruleprobe)** — Verify whether AI coding agents follow the instruction files they're given.
-<hr>
-
 <h3>Stack</h3>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
